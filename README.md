@@ -1,4 +1,4 @@
-## Hello, eu sou o Gabriel Alexandre!
+## Olá, eu sou o Gabriel Alexandre!
 
 - 🚀 Começando na área
 - 📘 Estudando JS e Python
