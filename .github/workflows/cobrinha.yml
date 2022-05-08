@@ -4,8 +4,6 @@ on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
   workflow_dispatch:
-  
-permissions: read-all|write-all
 
 jobs:
   build:
@@ -25,3 +23,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+permissions: read-all|write-all
