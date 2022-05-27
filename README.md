@@ -1,7 +1,7 @@
 ## Olá, eu sou o Gabriel Alexandre!
 
 - 🚀 Começando na área
-- 📘 Estudando JS e Python
+- 📘 Estudando C#
 
 <div align="center">
   <a href="https://github.com/Gabriel0xMedrado">
