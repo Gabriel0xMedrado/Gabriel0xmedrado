@@ -1,8 +1,8 @@
 ## Olá, eu sou o Gabriel Alexandre!
 
 - 🚀 Começando na área
-- 📘 Estudando C#
-
+- 📘 Foco em Sec
+  
 <div align="center">
   <a href="https://github.com/Gabriel0xMedrado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel0xmedrado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
